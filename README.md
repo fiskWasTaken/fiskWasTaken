@@ -1,4 +1,4 @@
-# fisk / fisuku
+# fisk
 
 Hello,
 
